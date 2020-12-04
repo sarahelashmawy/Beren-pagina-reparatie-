@@ -1,7 +1,7 @@
 body{
 	background-color: #f3f3f3;
-	padding:150 ;
-	margin:150;
+	padding:200 ;
+	margin:200;
 }
 
 .page {
@@ -17,7 +17,7 @@ body{
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center -60px;
-	padding: 100px 20px 0px 20px;
+	padding: 150px 20px 0px 20px;
 }
 
 .main-nav a{
