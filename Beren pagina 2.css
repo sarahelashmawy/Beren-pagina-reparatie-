@@ -22,7 +22,7 @@ body{
 
 .main-nav a{
 	display:outline-block;
-	border-radius: 5px 0px 0px 0px;
+	border-radius: 5px 5px 0px 0px;
 	border-bottom: 10px solid white;
 	background-color:rgba(255, 255, 255, 0.64);
 	color:black;
