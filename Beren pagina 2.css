@@ -21,7 +21,7 @@ body{
 }
 
 .main-nav a{
-	display:inline-block;
+	display:outline-block;
 	border-radius: 5px 0px 0px 0px;
 	border-bottom: 10px solid white;
 	background-color:rgba(255, 255, 255, 0.64);
