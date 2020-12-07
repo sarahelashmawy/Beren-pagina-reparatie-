@@ -2,6 +2,7 @@ body{
 	background-color: #f3f3f3;
 	padding:200 ;
 	margin:200;
+	font-family: monospace;
 }
 
 .page {
@@ -49,7 +50,7 @@ h1{
 }
 
 h2{
-  font-family:Georgia;
+  font-family:monospace;
 }
 
 .top-nav ul{
